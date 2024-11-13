@@ -218,6 +218,8 @@ main {
     .discount,
     .category {
         padding: 0.25rem;
+        color: #e0e0e0;
+        font-weight: bold;
     }
 
     .discount {
